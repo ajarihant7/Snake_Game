@@ -8,7 +8,7 @@ There are three fucntions currently -> <br />
 
 The important function - gameLogic() is left to be written. <br />
 
-To run this file you will g++ version 12.2.0 <br />
+To run this file you will need g++ version 12.2.0 <br />
 
 Next steps ->  <br />
 Write the gameLogic() function. <br />
