@@ -13,4 +13,5 @@ To run this file you will g++ version 12.2.0 <br />
 Next steps ->  <br />
 Write the gameLogic() function. <br />
 Write the functions in seperate files. <br />
+Add a new fruit which is of 5 points and appears after every 5 normal fruit and appears only for 7 seconds. <br />
 Test a makefile for this if possible. <br />
