@@ -10,7 +10,7 @@ The important function - gameLogic() is left to be written.
 
 To run this file you will g++ version 12.2.0
 
-Next steps ->
-Write the gameLogic() function.
-Write the functions in seperate files
-Test a makefile for this if possible
+Next steps ->  <br />
+Write the gameLogic() function. <br />
+Write the functions in seperate files. <br />
+Test a makefile for this if possible. <br />
