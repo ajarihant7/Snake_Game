@@ -1,5 +1,5 @@
 # Snake_Game
-This is a classic snake game built on top of C++. It's can be played on CMD.  <br />
+This is a classic snake game built on top of C++. It's can be played on CMD. It currently supports windows systems only <br />
 
 These are fucntion definition -> <br />
     1. gameSetup() -> This initializes my game state. <br />
@@ -11,6 +11,7 @@ These are fucntion definition -> <br />
 To run this file you will need g++ version 12.2.0 <br />
 
 Next steps ->  <br />
-Write the functions in seperate files. <br />
+Write the functions in seperate files. - DONE <br />
 Add a new fruit which is of 5 points and appears after every 5 normal fruit and appears only for 7 seconds. <br />
-Test a makefile for this if possible. <br />
+Test a makefile for this if possible. - DONE <br />
+Need to edit main.cpp so that whenever main.exe is run it opens in a new command window <br />
